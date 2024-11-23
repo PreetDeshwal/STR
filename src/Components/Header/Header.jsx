@@ -54,7 +54,7 @@ const Header = () => {
               Why us
             </Link>
           </li>
-          <li>
+{/*           <li>
             <Link
               onClick={() => setMenuOpened(false)}
               to="plans"
@@ -63,7 +63,7 @@ const Header = () => {
             >
               Plans
             </Link>
-          </li>
+          </li> */}
           <li>
             <Link
               onClick={() => setMenuOpened(false)}
